@@ -5,7 +5,7 @@ public class Task001_Table_of_9_Another_Approach {
         int num = 9;
         for(int i = 1; i<=10; i++)
         {
-            System.out.printf("%d * 1 = %d%n",num,num*i);
+            System.out.printf("%d * %d = %d%n",num,i,num*i);
         }
     }
 }
