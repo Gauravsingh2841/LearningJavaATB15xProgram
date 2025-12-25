@@ -11,7 +11,7 @@ public class Lab067_To_Three_Max {
 
         System.out.println("MAX OUT OF THREE");
 
-        int max_out_of_three = (n1>n2) ? n1 : (n2>n3 ? n2 : n3);
+        int max_out_of_three = (n1>n2) ? (n1>n3 ? n1 : n3) : (n2>n3 ? n2 : n3);
         System.out.println(max_out_of_three);
     }
 }
