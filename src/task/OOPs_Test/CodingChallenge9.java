@@ -15,12 +15,14 @@ interface Drawable{
 }
 
 class Circle1 implements Drawable{
+    @Override
     public void draw(){
         System.out.println("Drawing a Circle");
     }
 }
 
 class Rectangle1 implements Drawable{
+    @Override
     public void draw(){
         System.out.println("Drawing a Rectangle");
     }
