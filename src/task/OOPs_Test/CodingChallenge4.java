@@ -2,7 +2,7 @@ package task.OOPs_Test;
 
 public class CodingChallenge4 {
     public static void main(String[] args){
-        BankAccount bc = new BankAccount(-300);
+        BankAccount bc = new BankAccount(1000);
 
         bc.deposit(500);
         System.out.println("Balance after deposit: " + bc.getBalance());
