@@ -16,9 +16,9 @@ class Person {
 public class CodingChallenge1{
     public static void main(String[] args){
         Person p1 = new Person("John",25);
-        p1.displayDetails();
-        //p1.getAge();
         Person p2 = new Person("Alice",30);
+
+        p1.displayDetails();
         p2.displayDetails();
     }
 }
