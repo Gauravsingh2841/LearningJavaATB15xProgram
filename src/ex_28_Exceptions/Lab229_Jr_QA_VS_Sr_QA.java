@@ -1,4 +1,4 @@
-package ex_30_Exceptions;
+package ex_28_Exceptions;
 
 public class Lab229_Jr_QA_VS_Sr_QA {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ex_30_Exceptions;
+package ex_28_Exceptions;
 
 public class Lab230_IQ {
     public static void main(String[] args) {

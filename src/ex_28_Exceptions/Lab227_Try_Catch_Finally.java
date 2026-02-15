@@ -1,4 +1,4 @@
-package ex_30_Exceptions;
+package ex_28_Exceptions;
 
 public class Lab227_Try_Catch_Finally {
     public static void main(String[] args) {

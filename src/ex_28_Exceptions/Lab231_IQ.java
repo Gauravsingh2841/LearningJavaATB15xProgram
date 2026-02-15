@@ -1,4 +1,4 @@
-package ex_30_Exceptions;
+package ex_28_Exceptions;
 
 import java.io.File;
 import java.io.FileNotFoundException;
